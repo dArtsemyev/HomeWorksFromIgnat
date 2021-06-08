@@ -1,0 +1,16 @@
+.affairInfo {
+    display: flex;
+}
+.item {
+    width: 100px;
+    padding: 5px;
+}
+.high {
+    color: red;
+}
+.middle {
+    color: blue;
+}
+.low {
+    color: green;
+}
